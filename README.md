@@ -1,6 +1,6 @@
 # Steam-Review-Neural-Net
 
-A project created for my neural network class
+A project created for my neural network class:
 
 This project was created to predict a whether a review for a game on Steam is positive or negative based on the text alone. Since Steam review data is available through a type of website API to collect json data, along with, the positive or negative review labels to make things easier and not having to manually label data, I created a program to gather said data into a text file by simply inputting a game’s ID in steam, which can be found on the store page website URL as a small patch of numbers. This program collected 1000 positive and 1000 negative reviews into one text file, while cleaning the text data and determining whether the text contains art. Something to know is that Steam reviews sometimes contain art in the form of text using UNICODE braille. However, because the specific variants of art is somewhat limited to a small pool of artworks, the text art potentially being messed up during text cleaning as art can be intertwined with text, and that there seems to be patterns to positive and negative reviews that use art and do not use art with certain accompanying text, I decided to simplify things for the sake of time. I simplified the process regarding art down to determining whether a review has art or not.
 
