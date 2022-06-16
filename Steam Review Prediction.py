@@ -60,9 +60,9 @@ prediction_input = sequences
 
 # Choose which model
 if model_input == "1":
-    model = keras.models.load_model('./Saved Model')
+    model = keras.models.load_model('./Saved-Model')
 else:
-    model = keras.models.load_model('./Saved Model v2')
+    model = keras.models.load_model('./Saved-Model-v2')
     # prepare art data
     art_input = [[text_data["art_present"]]]
     art_input = np.asarray(art_input)
