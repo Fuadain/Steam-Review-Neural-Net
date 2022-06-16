@@ -1,0 +1,597 @@
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'fantastic game love map rotations ranking system works', 'voted_up': True, 'art_present': False}
+{'text': 'pretty pog', 'voted_up': True, 'art_present': False}
+{'text': 'im 46 years old played first time pcnobody cares review isbut like game far', 'voted_up': True, 'art_present': False}
+{'text': 'good game wraith gay', 'voted_up': True, 'art_present': False}
+{'text': 'boob', 'voted_up': True, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
+{'text': 'touched ways cant describe', 'voted_up': False, 'art_present': False}
